@@ -6,3 +6,4 @@
 ## What aerospace company/institution has the most rockets?
 ![Most rockets](
 https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/d6fa559e-5f47-4ec8-9a32-8a8e70f26e20)
+### The Strategic Rocket Forces of the Russian Federation or the Strategic Missile Forces of the Russian Federation (RVSN ) owns (1777) rockets as at august 2022. The soviet program was notable in setting many records in space exploration, including the first intercontinental missile that launched the first satellite and sent the first animal into Earth orbit in 1957, and placed the first human in space in 1961.
