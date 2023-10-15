@@ -10,3 +10,4 @@ https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/d6fa559e-5f47-4ec8
 ## What country has carried out the most space missions?
 ![](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/8ae21c34-c1eb-4c09-aba5-d03bd4499d5a)
 ### As seen in the map there are 2 countries Russia(1416) and USA(1467) with the highest number of space missions these 2 countries are the juggernauts when it comes to space missions.
+## Have there been more successful missions than failed missions?
