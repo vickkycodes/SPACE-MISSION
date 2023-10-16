@@ -15,3 +15,5 @@ https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/d6fa559e-5f47-4ec8
 ### Space missions have been largely successful (4162) successful projects and just (357) failed, with so few prelauch failures (4).
 ## Trend of missions carried out over the years:
 ![Mission over the years](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/09142148-2642-48ca-aed0-cd8db64855f1)
+### Since the launch of the first artificial satellite in 1957, space missions has increased over the years though space explorations between 1979 to 2015 were a bit low. A record high of 157 missions occured in 2021.
+## State of the rockets: That is rocket that are still active and the ones that have been retired.
