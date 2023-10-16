@@ -14,3 +14,4 @@ https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/d6fa559e-5f47-4ec8
 ![](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/680735d9-324b-441b-b80d-f3dc6015ad45)
 ### Space missions have been largely successful (4162) successful projects and just (357) failed, with so few prelauch failures (4).
 ## Trend of missions carried out over the years:
+![Mission over the years](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/09142148-2642-48ca-aed0-cd8db64855f1)
