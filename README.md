@@ -20,5 +20,5 @@ https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/d6fa559e-5f47-4ec8
 ![Rocket Status!](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/db553aad-65b4-4bc7-84e4-2162bb23d80d)
 ### Over 78% of rockets have been retired and just over 21% are still active.
 ## FINAL REPORT
-
+![](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/72f907bc-ce45-429a-b2fb-6d54ad552cda)
 You can intereact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTc3YjcyZjctNTYwMS00YmM3LWI4MTktNGQ1MzJhMTlkMDQ1IiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
