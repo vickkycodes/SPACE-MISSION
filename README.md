@@ -19,3 +19,4 @@ https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/d6fa559e-5f47-4ec8
 ## State of the rockets: That is rocket that are still active and the ones that have been retired.
 ![Rocket Status!](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/db553aad-65b4-4bc7-84e4-2162bb23d80d)
 ### Over 78% of rockets have been retired and just over 21% are still active.
+You can intereact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTc3YjcyZjctNTYwMS00YmM3LWI4MTktNGQ1MzJhMTlkMDQ1IiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
