@@ -1,5 +1,10 @@
 # SPACE-MISSION Report
 ## The first space mission was carried out in October the 7th,1957 when the soviets launched the first artificial satellite which was a success and since then numerous space missions has taken place.
+## Overview
+![space pic](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/3027bfc2-b7e0-4259-b205-5e3a82e766ff)
+
+You can intereact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTc3YjcyZjctNTYwMS00YmM3LWI4MTktNGQ1MzJhMTlkMDQ1IiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
+
 # The Task
 ## I got a dataset containing all space missions carried out from 1957–2022 from maven analytics . In the dataset are the 
 *  Companies
@@ -30,7 +35,3 @@ Since the launch of the first artificial satellite in 1957, space missions has i
 ![Rocket Status!](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/db553aad-65b4-4bc7-84e4-2162bb23d80d)
 
 Over 78% of rockets have been retired and just over 21% are still active.
-## FINAL REPORT
-![space pic](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/3027bfc2-b7e0-4259-b205-5e3a82e766ff)
-
-You can intereact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMTc3YjcyZjctNTYwMS00YmM3LWI4MTktNGQ1MzJhMTlkMDQ1IiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
